@@ -1,0 +1,8 @@
+<div>
+  <h1>Socket.IO Chat</h1>
+  <input [(ngModel)]="message" placeholder="Type your message" />
+  <button (click)="sendMessage()">Send</button>
+  <ul>
+    <li *ngFor="let msg of messages">{{ msg }}</li>
+  </ul>
+</div>
