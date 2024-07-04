@@ -1,5 +1,3 @@
-# Angular 14 Node.js Project: Web socket example
-
 # Simple WebSocket App Using Socket.IO and ngx-socket-io
 
 This project is a simple chat application built using Node.js, Socket.IO, Angular, and `ngx-socket-io`. It demonstrates real-time communication between a client and a server using WebSockets.
